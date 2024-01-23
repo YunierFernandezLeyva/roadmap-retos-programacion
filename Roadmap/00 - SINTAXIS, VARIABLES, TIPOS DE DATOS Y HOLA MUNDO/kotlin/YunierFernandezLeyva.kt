@@ -14,7 +14,7 @@ var pais = "España"
 
 //Variables de datos primitivos
 val entero: Int = 10
-val enteroLargo: Long = 10022011L
+val enteroLargo: Long = 1002201L
 val enteroCorto: Short = 1
 val byte: Byte = 25
 val doble: Double = 2.2
